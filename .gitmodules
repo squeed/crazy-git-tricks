@@ -1,4 +1,4 @@
 [submodule "checkout"]
 	path = checkout
 	url = https://github.com/squeed/crazy-git-tricks.git
-	branch = branch-a
+	branch = branch-b
